@@ -36,8 +36,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        final String apiKey = "393fe4563d914309858b806b34c113c0";
+        
+        final String apiKey = "your sample api key";  
+        
+        // in this case you can get it at newsapi.org. create an account and you get the api key
 
         final ProgressBar progressBar = findViewById(R.id.mainProgressBar);
         progressBar.setIndeterminate(true);
