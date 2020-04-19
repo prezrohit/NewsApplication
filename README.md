@@ -1,4 +1,4 @@
 ## NewsApplication
-Simple Implementation of News API using Dagger2 and Retrofit
+Implementation of News API using Dagger2 and Retrofit
 
-News Application is a Simple Android Implementation of [NewsAPI](https://newsapi.org) using Dagger2, Retrofit and Butterknife
+News Application is an Android Application based on [NewsAPI](https://newsapi.org) using Dagger2, Retrofit and Butterknife libraries.
